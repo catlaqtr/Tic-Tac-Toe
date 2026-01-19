@@ -9,6 +9,9 @@ build
 # idea config
 .idea
 
+# embedded repo
+/Tic-Tac-Toe/
+
 # old stages
 /Tic-Tac-Toe with AI (Java)/*
 !/Tic-Tac-Toe with AI (Java)/task/
